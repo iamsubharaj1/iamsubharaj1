@@ -46,10 +46,10 @@ I build execution systems that scale across teams and multi-location operations:
 - **Investment:** investment research and tracking workspace
 
 ## Start here
-- `ops-playbooks` → playbooks and SOPs for repeatable execution  
-- `automation-lab` → n8n exports + documentation  
-- `templates` → QBRs, account plans, health signals, scorecards  
-- `case-studies` → short, metric-backed execution stories  
+## Start here
+- [ops-playbooks](https://github.com/iamsubharaj1/ops-playbooks) → execution playbooks and SOPs
+- [automation-lab](https://github.com/iamsubharaj1/automation-lab) → n8n + AI workflows with reliability standards
+- [templates](https://github.com/iamsubharaj1/templates) → operator templates: QBRs, trackers, scorecards, SOPs
 
 ## How I work
 - Outcomes and ownership first
